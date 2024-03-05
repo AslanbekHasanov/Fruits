@@ -9,3 +9,5 @@ Biz loyhani ishlatishda `Fruit.cs` dagi umumiy mevalar ma;lumoti bilan ishlashni
 
 #### Run Code
 ![Run Code](/Image/run-code.gif)
+
+### Nimadir
