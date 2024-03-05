@@ -6,7 +6,6 @@
 using Fruits.Service;
 
 Fruit apple = new Fruit();
-
 apple.name = "Golden";
 apple.color = "Yellow";
 
